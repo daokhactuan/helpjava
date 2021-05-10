@@ -6,7 +6,7 @@
     <groupId>org.springframework</groupId>
     <artifactId>gs-maven</artifactId>
     <packaging>jar</packaging>
-    <version>15</version>
+    <version>16</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
